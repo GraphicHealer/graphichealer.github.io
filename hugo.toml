@@ -1,0 +1,8 @@
+baseURL = 'https://graphichealer.com/'
+languageCode = 'en-us'
+title = 'GrahicHealer'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
